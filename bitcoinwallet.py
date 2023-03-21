@@ -11,7 +11,6 @@ def username(name):
     return name
 
 Name = username(input("Enter Username: "))
-Names = [Name]
 
 #greet user using created name
 greet = ("HELLO" " " + username(name=Name))
