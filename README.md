@@ -1,3 +1,5 @@
 # Bitcoin-custodial-wallet
-Visit this link to check demo
+A simple bitcoin wallet built with python 
+
+# Visit this link for demo
 https://youtu.be/KrDieeuBKNw
